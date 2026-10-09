@@ -74,6 +74,9 @@ src/ScadaApp/
 | CommunityToolkit.Mvvm | MVVM |
 | System.IO.Ports | 串口 |
 
+## 项目引用
+本项目克隆自  https://github.com/agentthink/modbus-hub.git ，在这基础上修改为兼容 Windows 7 SP1 / 10 / 11 系统的 .NET Framework 4.8 版本，并添加了数据位、校验位、停止位设置功能。
+
 ## 许可证
 
 MIT
